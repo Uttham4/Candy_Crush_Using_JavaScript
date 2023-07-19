@@ -1,0 +1,14 @@
+# Candy_Crush_Using_JavaScript
+
+I have created the Candy Crush basic version game using javascript.
+For the code i have used a yuotubers code for reference.And i have improved it by creating a new candy called rainbow fire on matching 4 candies in a box manner.
+The power of rainbow fire is if 3 rainbow fires are matched as column we can increase the score by 50 points.
+
+For the images, i have already attached it in this repository.
+I have reduced the size to 70*70 dimension to match a single square grid.
+
+For clear Steps refer the following notes or the sorce code.
+Initially i thought to create a similar game called CHOCO CRUSH..but i cannot get the proper image for the name choco crush
+so i created the same candy crush with a special functionality.
+[DocScanner Jul 20, 2023 1-00 AM.pdf](https://github.com/Uttham4/Candy_Crush_Using_JavaScript/files/12099475/DocScanner.Jul.20.2023.1-00.AM.pdf)
+This is the notes  have created for my rough work...so it will not be neat....refer other notes for clear view.
