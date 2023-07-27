@@ -14,7 +14,7 @@ const candyColors = [
     'url(blue-candy.png)'
   ]
 
-//create your board
+//To create board
 function createBoard() {
 
   for (let i = 0; i < width*width; i++) {
@@ -29,7 +29,7 @@ function createBoard() {
 }
 createBoard()
 
-// Dragging the Candy
+// For dragging the Candy
 let colorBeingDragged
 let colorBeingReplaced
 let squareIdBeingDragged
@@ -194,9 +194,7 @@ checkColumnForFour()
   }
 
 
-
-
-// Checks carried out indefintely - Add Button to clear interval for best practise, or clear on game over/game won. If you have this indefinite check you can get rid of calling the check functions above.
+
 window.setInterval(function(){
     checkColumnForFish()
     checkRowForFour()
